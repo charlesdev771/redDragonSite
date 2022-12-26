@@ -1,7 +1,7 @@
 ##====================================================================##
 ##                                                                    ##
 ## SOFTWARE: Red Dragon Site.                                         ##
-## AUTHOR: Charles Dantas (chameleon)                                 ##
+## AUTHOR: Charles Dantas (ccod)                                      ##
 ## VERSION: 1.0                                                       ##
 ## CREATION DATE: 23/06/2022                                          ##
 ##                                                                    ##
